@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+h1 {
+    color: navy;
+}
+p {
+    color: darkgray;
+    font-size: 18px;
+}
+ul {
+    list-style-type: square;
+}
+img {
+    border: 2px solid black;
+}
